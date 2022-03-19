@@ -1,0 +1,50 @@
+:root {
+    --cor1: #23272a;
+    --cor2: #1c1b29;
+    --cor3: #23272a;
+    --cor4: #292841;
+    --cor5: #503e50;
+    --cor6: #5865f2;
+    --cor7: #4a4d6b;
+    --cor8: #404eed;
+    --cor9: #232323;
+    --cor10: #15243A;
+    --cor11: #22385A;
+    --cor12: #162039;
+    --cor13: #1E2941;
+    --cor14: #09131F;
+}
+
+body {
+    background-color: #111B24;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img#moon {
+    max-width: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: no-repeat fixed;
+  }
+
+  img#moon2 {
+    max-width: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: no-repeat fixed;
+  }
+
+  img#efeito1 {
+    max-width: 90%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+  
