@@ -12,7 +12,8 @@
     --cor11: #22385A;
     --cor12: #162039;
     --cor13: #1E2941;
-    --cor14: #09131F;
+    --cor14: #09131F; /* body -> pag 1,2,3,4 */
+    --cor15: #111B24; /* moon */
 }
 
 body {
@@ -37,7 +38,7 @@ img#moon {
     transform: translate(-50%, -50%);
     background: no-repeat fixed;
   }
-
+  
   img#efeito1 {
     max-width: 90%;
     position: absolute;
